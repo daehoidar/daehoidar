@@ -1,15 +1,18 @@
-### Hi there 👋
+### Hi there 👋, Welcome to my Cafe ☕
+https://daehoidar.github.io
 
+<br/>
 <br/>
 
 ### Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=apxkfalsdn12)](https://solved.ac/apxkfalsdn12/)
 
+<br/>
  <br/>
  
 ### Blog
-https://yes-you-are.tistory.com/
-</div>
+https://yes-you-are.tistory.com
+
 <!--
 **daehoidar/daehoidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
